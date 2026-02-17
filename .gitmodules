@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SENODROOM/Quantum-Logics-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SENODROOM/Quantum-Logics-Backend.git
